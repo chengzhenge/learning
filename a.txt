@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-aaaa
-=======
-aaaaa
->>>>>>> master
